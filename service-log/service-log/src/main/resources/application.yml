@@ -1,0 +1,6 @@
+server:
+  port: 8020
+
+logging:
+  level:
+    org.springframework.web: DEBUG
